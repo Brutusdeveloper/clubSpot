@@ -5,7 +5,7 @@
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #4c54af;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -16,7 +16,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #4956e9;
 }
 
 .outerWrapper {
